@@ -3,7 +3,7 @@ layout: page
 title: Papers
 permalink: /papers/
 ---
-
+# Research
 - S. Polk, E.J. Pabon-Cancel, R. Paleja, K. Chestnut-Chang, R. Jensen and M. Ramirez.  
   *Unsupervised Behavior Inference From Human Action Sequences.*  
   *2024 IEEE Conference on Games (CoG), Milan, Italy, 2024, pp. 1-8.*  
@@ -24,3 +24,8 @@ permalink: /papers/
   *Designs, Codes and Cryptography,* **91**, 2649–2663 (2023).  
   DOI: [https://doi.org/10.1007/s10623-023-01216-6](https://doi.org/10.1007/s10623-023-01216-6)  
   arXiv: [https://arxiv.org/abs/2201.03741](https://arxiv.org/abs/2201.03741)
+
+# Contributions
+- P.E. Harris, Z. Markman, L. Martinez, A. Mock, E.J. Pabón-Cancel, A. Verga, and S. Wang.  
+  *A Model for a One-Hour Workshop on Mentoring.*  
+  [*MAA Focus,* 43(1):18-21, 2023](http://digitaleditions.walsworthprintgroup.com/publication/?m=7656&i=782706&p=18&ver=html5)
