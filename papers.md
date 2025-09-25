@@ -1,9 +1,8 @@
 ---
 layout: page
-title:
+title: Research
 permalink: /papers/
 ---
-# Research
 - S. Polk, E.J. Pabon-Cancel, R. Paleja, K. Chestnut-Chang, R. Jensen and M. Ramirez.  
   *Unsupervised Behavior Inference From Human Action Sequences.*  
   *2024 IEEE Conference on Games (CoG), Milan, Italy, 2024, pp. 1-8.*  
