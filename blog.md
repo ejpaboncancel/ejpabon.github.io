@@ -1,10 +1,22 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: Origami
+permalink: /origami/
 ---
 
-Tell us about your blog. Hopefully it's cool.
+<p align="center">
+  {% include image.html url="/images/rose.jpg" width=300 align="center" %}
+  <br>
+  {% include image.html url="/images/mammoth.jpg" width=300 align="center" %}
+</p>
+
+ <li>
+      Some pictures of origami models I have folded in the past. Origami
+      Rose (designed by Jo Nakashima), Origami Mammoth (designed by
+      Satoshi Kamiya)
+</li>
+
+<!-- Tell us about your blog. Hopefully it's cool.
 
 <ul class="listing">
 {% for post in site.posts %}
@@ -18,4 +30,4 @@ Tell us about your blog. Hopefully it's cool.
     <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
   </li>
 {% endfor %}
-</ul>
+</ul> -->
