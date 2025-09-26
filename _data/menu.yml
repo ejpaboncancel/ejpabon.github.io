@@ -1,11 +1,10 @@
 # - title: "About"
 #  href: "/about/"
-
-- title: "Origami"
-  href: "/origami/"
-
 - title: "Papers"
   href: "/papers/"
+  
+- title: "Origami"
+  href: "/origami/"
 
 # - title: "Research Notebook"
 #  href: "/notebook"
