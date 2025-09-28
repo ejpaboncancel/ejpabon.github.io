@@ -13,24 +13,29 @@ school to earn a graduate degree in mathematics. Attached are some links related
 <p align="justify">
 Mini-biography posted by the electronic newspaper of my hometown, <i>Vega Baja Te Informa</i>, explaining my cultural and academic journey.
 </p>
+
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v17.0" nonce="XYZ"></script>
 
+<!-- Facebook responsive embed matching video width -->
 <div style="max-width: 100%; display: flex; justify-content: center; margin: 0 auto;">
   <div class="fb-post" 
        data-href="https://www.facebook.com/vegabajateinforma/posts/642005397959682" 
        data-show-text="true" 
-       data-width="auto" 
-       style="width: 100%; max-width: 500px;">
+       data-width="500"
+       style="width: 100%; max-width: 560px;">
   </div>
 </div>
 
 <br>
 <hr>
 <br>
+
 <p align="justify">
 Final presentation of the research conducted as part of the Summer@ICERM 2022 REU Program "On Permutation-Invariant Parking Sequences".
 </p>
+
+<!-- Panopto responsive embed -->
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 0 auto;">
   <iframe 
     src="https://brown.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=2e350578-3784-48d7-abfc-aee70108ed63&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&start=0"
@@ -38,12 +43,16 @@ Final presentation of the research conducted as part of the Summer@ICERM 2022 RE
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:none;">
   </iframe>
 </div>
+
 <br>
 <hr>
 <br>
+
 <p align="justify">
 Interview posted by the UPRM News Organization, *Prensa RUM*, regarding my experience in the 2018 UPRM STEM and Pre-Engineering Camp the summer before entering the univerity.
 </p>
+
+<!-- YouTube responsive embed -->
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 0 auto;">
   <iframe 
     src="https://www.youtube.com/embed/sNTfmJjSI60?start=144"
@@ -54,5 +63,4 @@ Interview posted by the UPRM News Organization, *Prensa RUM*, regarding my exper
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
   </iframe>
 </div>
-
 
