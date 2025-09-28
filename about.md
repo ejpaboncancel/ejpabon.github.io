@@ -31,12 +31,11 @@ Mini-biography posted by the electronic newspaper of my hometown, <i>Vega Baja T
 <p align="justify">
 Final presentation of the research conducted as part of the Summer@ICERM 2022 REU Program "On Permutation-Invariant Parking Sequences".
 </p>
-<div style="max-width: 100%; display: flex; overflow: hidden; max-width: 100%; justify-content: center;">
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 0 auto;">
   <iframe 
     src="https://brown.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=2e350578-3784-48d7-abfc-aee70108ed63&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&start=0"
-    width="100%" height="315" 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-    frameborder="0" allowfullscreen>
+    frameborder="0" allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:none;">
   </iframe>
 </div>
 <br>
@@ -55,4 +54,5 @@ Interview posted by the UPRM News Organization, *Prensa RUM*, regarding my exper
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
   </iframe>
 </div>
+
 
