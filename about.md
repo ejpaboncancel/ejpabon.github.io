@@ -16,14 +16,15 @@ Mini-biography posted by the electronic newspaper of my hometown, <i>Vega Baja T
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v17.0" nonce="XYZ"></script>
 
-<!-- Centered container -->
-<div style="display: flex; justify-content: center; max-width: 100%; margin: 0 auto;">
+<div style="max-width: 100%; display: flex; justify-content: center; margin: 0 auto;">
   <div class="fb-post" 
        data-href="https://www.facebook.com/vegabajateinforma/posts/642005397959682" 
-       data-width="500" 
-       data-show-text="true">
+       data-show-text="true" 
+       data-width="auto" 
+       style="width: 100%; max-width: 500px;">
   </div>
 </div>
+
 <br>
 <hr>
 <br>
