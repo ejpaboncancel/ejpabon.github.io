@@ -14,7 +14,7 @@ Mini-biography posted by the electronic newspaper of my hometown, *Vega Baja Te 
   </iframe>
 </div>
 <br>
----
+<hr>
 <br>
 Final presentation of the research conducted as part of the Summer@ICERM 2022 REU Program "On Permutation-Invariant Parking Sequences".
 <div style="text-align:center;">
@@ -23,7 +23,7 @@ Final presentation of the research conducted as part of the Summer@ICERM 2022 RE
   </iframe>
 </div>
 <br>
----
+<hr>
 <br>
 Interview posted by the UPRM News Organization, *Prensa RUM*, regarding my experience in the 2018 UPRM STEM and Pre-Engineering Camp the summer before entering the univerity.
 <div style="text-align: center;">
