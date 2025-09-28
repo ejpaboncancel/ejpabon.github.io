@@ -31,11 +31,11 @@ Mini-biography posted by the electronic newspaper of my hometown, <i>Vega Baja T
 <p align="justify">
 Final presentation of the research conducted as part of the Summer@ICERM 2022 REU Program "On Permutation-Invariant Parking Sequences".
 </p>
-<div style="max-width: 100%; display: flex; justify-content: center;">
+<div style="max-width: 100%; display: flex; overflow: hidden; max-width: 100%; justify-content: center;">
   <iframe 
     src="https://brown.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=2e350578-3784-48d7-abfc-aee70108ed63&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&start=0"
     width="100%" height="315" 
-    style="border:none; max-width:560px;" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;;" 
     frameborder="0" allowfullscreen>
   </iframe>
 </div>
