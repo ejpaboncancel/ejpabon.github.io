@@ -11,7 +11,7 @@ in Summer REUs, as well as undergraduate research programs at UPRM. My motivatio
 school to earn a graduate degree in mathematics. Attached are some links related to my academic journey:
 </p>
 <p align="justify">
-Mini-biography posted by the electronic newspaper of my hometown, <it>Vega Baja Te Informa</it>, explaining my cultural and academic journey.
+Mini-biography posted by the electronic newspaper of my hometown, <i>Vega Baja Te Informa</i>, explaining my cultural and academic journey.
 </p>
 <div style="text-align:center;">
   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fvegabajateinforma%2Fposts%2Fpfbid02hGjWSGCnKYXtXpR18t7Giiz73mNJX883m79m7mg4AnVJCGDwsktSQYLY1vfL6iZZl&show_text=true&width=500"
