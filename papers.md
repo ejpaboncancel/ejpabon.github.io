@@ -27,6 +27,6 @@ The asterisk (*) symbol denotes alphabetical ordering in the authorship.
   arXiv: [https://arxiv.org/abs/2201.03741](https://arxiv.org/abs/2201.03741)
 
 # Contributions
-- P.E. Harris, Z. Markman, L. Martinez, A. Mock, E.J. Pabón-Cancel, A. Verga, and S. Wang.  
+- *P.E. Harris, Z. Markman, L. Martinez, A. Mock, E.J. Pabón-Cancel, A. Verga, and S. Wang.  
   *A Model for a One-Hour Workshop on Mentoring.*  
   [*MAA Focus,* 43(1):18-21, 2023](http://digitaleditions.walsworthprintgroup.com/publication/?m=7656&i=782706&p=18&ver=html5)
