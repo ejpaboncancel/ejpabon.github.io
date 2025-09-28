@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 Here you can learn a bit more about my academic journey.
-Line 1
 <!-- {% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %} -->
 Mini-biography posted by the electronic newspaper of my hometown, *Vega Baja Te Informa*, explaining my cultural and academic journey.
 <div style="text-align:center;">
@@ -14,18 +13,18 @@ Mini-biography posted by the electronic newspaper of my hometown, *Vega Baja Te 
     allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share">
   </iframe>
 </div>
-Line 2
+<br>
 ---
-Line 3
+<br>
 Final presentation of the research conducted as part of the Summer@ICERM 2022 REU Program "On Permutation-Invariant Parking Sequences".
 <div style="text-align:center;">
   <iframe src="https://brown.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=2e350578-3784-48d7-abfc-aee70108ed63&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&start=0"
     width="560" height="315" frameborder="0" allowfullscreen>
   </iframe>
 </div>
-Line 4
+<br>
 ---
-Line 5
+<br>
 Interview posted by the UPRM News Organization, *Prensa RUM*, regarding my experience in the 2018 UPRM STEM and Pre-Engineering Camp the summer before entering the univerity.
 <div style="text-align: center;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/sNTfmJjSI60?start=144"
