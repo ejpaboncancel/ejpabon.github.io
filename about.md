@@ -3,9 +3,16 @@ layout: page
 title: About
 permalink: /about/
 ---
+<!-- {% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %} -->
+Mini-biography posted by the electronic newspaper of my hometown, *Vega Baja Te Informa*, explaining my cultural and academic journey.
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fvegabajateinforma%2Fposts%2Fpfbid02hGjWSGCnKYXtXpR18t7Giiz73mNJX883m79m7mg4AnVJCGDwsktSQYLY1vfL6iZZl&show_text=true&width=500" width="500" height="737" style="border:none;overflow:hidden;" align="center" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-{% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
+---
 
-My research interests currently lie in dynamical systems, machine learning, and computational & applied math. During my bachelor's degree however, I did venture into more theoretical research areas,
-such as number theory, abstract algebra and combinatorics.
+Final presentation of the research conducted as part of the Summer@ICERM 2022 REU Program "On Permutation-Invariant Parking Sequences".
+<iframe src="https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2e350578-3784-48d7-abfc-aee70108ed63&start=0.968134" width="560" height="315"></iframe>
 
+---
+
+Interview posted by the UPRM News Organization, *Prensa RUM*, regarding my experience in the 2018 UPRM STEM and Pre-Engineering Camp the summer before entering the univerity.
+<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/sNTfmJjSI60?start=144" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
