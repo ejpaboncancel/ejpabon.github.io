@@ -13,11 +13,10 @@ school to earn a graduate degree in mathematics. Attached are some links related
 <p align="justify">
 Mini-biography posted by the electronic newspaper of my hometown, <i>Vega Baja Te Informa</i>, explaining my cultural and academic journey.
 </p>
-<div style="max-width: 100%; display: flex; justify-content: center;">
+<div style="position: relative; padding-bottom: 140%; height: 0; overflow: hidden; max-width: 500px; margin: 0 auto;">
   <iframe 
-    src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fvegabajateinforma%2Fposts%2Fpfbid02hGjWSGCnKYXtXpR18t7Giiz73mNJX883m79m7mg4AnVJCGDwsktSQYLY1vfL6iZZl&show_text=true&width=500"
-    width="100%" height="800"
-    style="border:none; overflow:hidden; max-width:500px;" 
+    src="https://www.facebook.com/plugins/post.php?href=https://www.facebook.com/vegabajateinforma/posts/POST_ID&show_text=true&width=500"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0; overflow:hidden;" 
     scrolling="no" frameborder="0" allowfullscreen="true"
     allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share">
   </iframe>
