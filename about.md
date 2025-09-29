@@ -47,7 +47,7 @@ Final presentation of the research conducted as part of the Summer@ICERM 2022 RE
 <br>
 
 <p align="justify">
-Interview posted by the UPRM News Organization, *Prensa RUM*, regarding my experience in the 2018 UPRM STEM and Pre-Engineering Camp the summer before entering the univerity.
+Interview posted by the UPRM News Organization, <i>Prensa RUM</i>, regarding my experience in the 2018 UPRM STEM and Pre-Engineering Camp the summer before entering the univerity.
 </p>
 
 <!-- YouTube responsive embed -->
