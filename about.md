@@ -18,7 +18,7 @@ Mini-biography posted by the electronic newspaper of my hometown, <i>Vega Baja T
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v17.0" nonce="XYZ"></script>
 
 <!-- Fully centered Facebook embed -->
-<div style="max-width: 100%; width: 100%; margin: 0 auto; text-align: center;">
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 0 auto;">
   <div class="fb-post" 
        data-href="https://www.facebook.com/vegabajateinforma/posts/642005397959682" 
        data-show-text="true" 
