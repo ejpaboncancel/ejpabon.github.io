@@ -3,9 +3,9 @@ layout: page
 title: Papers
 permalink: /papers/
 ---
-## Research articles and preprints
-
 The asterisk (\*) symbol denotes alphabetical ordering in the authorship.
+
+## Research articles and preprints
 
 - S. Polk, E.J. Pabon-Cancel, R. Paleja, K. Chestnut-Chang, R. Jensen and M. Ramirez.  
   *Unsupervised Behavior Inference From Human Action Sequences.*  
