@@ -9,6 +9,7 @@ permalink: /awards/
 2023 National GEM Consortium PhD Science Fellowship (August 2023 – May 2024) <br>
  - Purdue University Department of Mathematics Sponsorship (August 2023 – May 2024)
  - MIT Lincoln Laboratory Employer Sponsorship (Internship) (May 2023 – August 2023) <br>
+ 
 2023 MIT Lincoln Laboratory I³C 3rd Place Research Proposal Prize (July 2023) <br>
 2022 Evertec Inc. STEM Scholarship (October 2022) <br>
 Puerto Rico-Louis Stokes Alliance for Minority Participation Research Scholarship (August 2019 – December 2022) 
