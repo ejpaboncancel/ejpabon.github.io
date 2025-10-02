@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Research
+title: Papers
 permalink: /papers/
 ---
+## Research articles and preprints
+
 The asterisk (\*) symbol denotes alphabetical ordering in the authorship.
 
 - S. Polk, E.J. Pabon-Cancel, R. Paleja, K. Chestnut-Chang, R. Jensen and M. Ramirez.  
@@ -26,7 +28,7 @@ The asterisk (\*) symbol denotes alphabetical ordering in the authorship.
   DOI: [https://doi.org/10.1007/s10623-023-01216-6](https://doi.org/10.1007/s10623-023-01216-6)  
   arXiv: [https://arxiv.org/abs/2201.03741](https://arxiv.org/abs/2201.03741)
 
-# Contributions
+## Contributions to the profession
 - \*P.E. Harris, Z. Markman, L. Martinez, A. Mock, E.J. Pabón-Cancel, A. Verga, and S. Wang.  
   *A Model for a One-Hour Workshop on Mentoring.*  
   [*MAA Focus,* 43(1):18-21, 2023](http://digitaleditions.walsworthprintgroup.com/publication/?m=7656&i=782706&p=18&ver=html5)
